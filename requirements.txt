@@ -46,3 +46,4 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=6,<7
 bqplot
+seaborn
